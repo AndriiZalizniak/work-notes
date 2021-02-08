@@ -1,0 +1,17 @@
+.display-enter {
+  opacity: 0;
+}
+.display-enter-active {
+  transition: opacity 1s;
+}
+.display-leave-active {
+  transition: opacity 1s;
+}
+.display-leave {
+  opacity: 0;
+}
+
+.border {
+  padding: 5px 10px;
+  border: 2px solid red;
+}
